@@ -14,7 +14,7 @@ Ornstein-Uhlenbeck Inference
 
 ### Documentation
 
-* Check [paolobarucca/OUinference/notes/paper.pdf]  (<notes/paper.pdf>)
+* Check [paper.pdf]  (<notes/paper.pdf>)
 
 * Check this paper [Localization in covariance matrices of coupled heterogenous Ornstein-Uhlenbeck processes] (http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.062129)
 
